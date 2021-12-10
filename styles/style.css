@@ -89,3 +89,13 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
+
+body {
+    background-image: src("../assets/goblin-cave.jpg");
+    display: flex;
+}
+
+img {
+    max-height: 250px;
+    max-width: 250px;
+}
